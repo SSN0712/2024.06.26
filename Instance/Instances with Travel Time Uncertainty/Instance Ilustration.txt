@@ -5,7 +5,7 @@ INDEX,Name,X-coordinate,Y-coordinate
 2,2,-,-
 3,3,-,-
 ARCS,10
-Index,Origin,Destination,Variable Cost,Fixed Cost,Capacity,Travel time,Travel time max deviation
+Index,Origin,Destination,Variable Cost,Fixed Cost,Capacity,Nominal travel time,Travel time max deviation
 0,0,1,0,60,1,60,10
 1,0,2,0,40,1,40,10
 2,1,0,0,60,1,60,10
